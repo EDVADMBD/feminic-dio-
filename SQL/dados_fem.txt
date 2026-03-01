@@ -1,8 +1,8 @@
 ano,estado,quantidade,fonte
-2025,São Paulo,350,Ministério da Justiça
-2025,Minas Gerais,200,Ministério da Justiça
-2025,Rio de Janeiro,180,Ministério da Justiça
-2025,Outros Estados,740,Ministério da Justiça
+2025,São Paulo,233,Ministério da Justiça/G1
+2025,Minas Gerais,139,Ministério da Justiça/G1
+2025,Rio de Janeiro,104,Ministério da Justiça/G1
+2025,Outros Estados,994,Ministério da Justiça/G1
 2015,Brasil,535,Ministério da Justiça
 2024,Brasil,1464,Ministério da Justiça
 2025,Brasil,1470,Ministério da Justiça
