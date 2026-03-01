@@ -13,7 +13,7 @@ Os dados de 2025 revelam um **recorde histórico**: o Brasil atingiu a marca de 
 * Aumento de **174,77%** em relação a 2015.
 * Estagnação no topo: 2024 (**1.464**) vs 2025 (**1.470**).
 
-### 3. A Anatomia do Recorde (Dados G1/Sinesp)
+### 3. A Anatomia do Recorde (Dados G1)
 A análise em **Python** destaca os epicentros em 2025:
 * **São Paulo**: 233 casos (Dados parciais).
 * **Minas Gerais**: 139 casos.
