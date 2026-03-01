@@ -1,0 +1,10 @@
+SELECT 
+    estado, 
+    quantidade,
+    ROUND(
+        (quantidade * 100.0) / SUM(quantidade) OVER(), 2
+    ) AS percentual
+FROM casos_feminicidio
+WHERE ano = 2025
+  AND estado NOT IN ('Brasil', 'TOTAL GERAL')
+ORDER BY percentual DESC;

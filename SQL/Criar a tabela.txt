@@ -1,0 +1,41 @@
+-- Criar a tabela
+DROP TABLE IF EXISTS casos_feminicidio;
+
+CREATE TABLE casos_feminicidio (
+    ano INTEGER NOT NULL,
+    estado TEXT NOT NULL,
+    quantidade INTEGER NOT NULL,
+    fonte TEXT
+);
+
+-- Inserir os dados manualmente (sem depender de .import)
+INSERT INTO casos_feminicidio (ano, estado, quantidade, fonte) VALUES
+(2025, 'São Paulo', 350, 'Ministério da Justiça'),
+(2025, 'Minas Gerais', 200, 'Ministério da Justiça'),
+(2025, 'Rio de Janeiro', 180, 'Ministério da Justiça'),
+(2025, 'Outros Estados', 740, 'Ministério da Justiça'),
+(2015, 'Brasil', 535, 'Ministério da Justiça'),
+(2024, 'Brasil', 1464, 'Ministério da Justiça'),
+(2025, 'Brasil', 1470, 'Ministério da Justiça'),
+(2025, 'TOTAL GERAL', 1470, 'Ministério da Justiça');
+
+-- Conferir os dados
+SELECT ano, estado, quantidade
+FROM casos_feminicidio
+WHERE ano = 2025;
+
+-- Soma dos estados (sem Brasil e TOTAL GERAL)
+SELECT SUM(quantidade) AS soma_estados
+FROM casos_feminicidio
+WHERE ano = 2025
+  AND estado NOT IN ('Brasil','TOTAL GERAL');
+
+-- Percentual por estado
+SELECT estado,
+       quantidade,
+       ROUND((quantidade * 100.0) / 
+             (SELECT quantidade FROM casos_feminicidio WHERE ano = 2025 AND estado = 'TOTAL GERAL'),2) AS percentual
+FROM casos_feminicidio
+WHERE ano = 2025
+  AND estado NOT IN ('Brasil','TOTAL GERAL')
+ORDER BY percentual DESC;

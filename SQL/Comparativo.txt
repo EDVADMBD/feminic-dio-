@@ -1,0 +1,15 @@
+WITH Base2015 AS (
+    SELECT quantidade AS valor_inicial 
+    FROM casos_feminicidio 
+    WHERE estado = 'Brasil' AND ano = 2015
+)
+SELECT 
+    c.ano, 
+    c.quantidade,
+    ROUND(
+        (c.quantidade - b.valor_inicial) * 100.0 / NULLIF(b.valor_inicial, 0), 2
+    ) AS crescimento_acumulado_desde_2015
+FROM casos_feminicidio c, Base2015 b
+WHERE c.estado = 'Brasil' 
+  AND c.ano BETWEEN 2015 AND 2025
+ORDER BY c.ano;
