@@ -26,11 +26,11 @@ Dez anos depois, o cenário se tornou crítico. Os dados de 2025 revelam um **re
 
 Ao replicarmos as análises em **Python**, conseguimos visualizar a concentração geográfica dessa violência em 2025:
 
-* 
+ 
 **São Paulo** lidera o ranking absoluto com **350 casos**, detendo **23,8%** da fatia nacional.
 
 
-* 
+ 
 **Minas Gerais (200)** e **Rio de Janeiro (180)** seguem como epicentros de preocupação.
 
 
