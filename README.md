@@ -38,3 +38,11 @@ Sincronização de Precisão: Correção e alinhamento dos dados históricos (20
 Metas Baseadas em Dados: A definição de uma meta de redução de 63,6% não é apenas um número, mas o caminho técnico necessário para o Brasil regressar aos níveis de 2015.
 
 Antecipação de Riscos: A implementação do algoritmo de projeção para 2026 serve como um "alerta precoce", indicando que, sem novas políticas públicas, o recorde de 1.470 casos será ultrapassado em menos de 12 meses.
+
+acesso ao projeto.
+# 🚀 Executar o Projeto
+
+Clique nos botões abaixo para abrir o notebook diretamente no Google Colab ou visualizar o renderizado:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EDVADMBD/feminic-dio-/blob/main/notebook/Feminicidio.ipynb)
+[![View in nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/EDVADMBD/feminic-dio-/blob/main/notebook/Feminicidio.ipynb)
