@@ -39,8 +39,8 @@ Metas Baseadas em Dados: A definição de uma meta de redução de 63,6% não é
 
 Antecipação de Riscos: A implementação do algoritmo de projeção para 2026 serve como um "alerta precoce", indicando que, sem novas políticas públicas, o recorde de 1.470 casos será ultrapassado em menos de 12 meses.
 
-acesso ao projeto.
-# 🚀 Executar o Projeto
+
+##🚀 Executar o Projeto
 
 Clique nos botões abaixo para abrir o notebook diretamente no Google Colab ou visualizar o renderizado:
 
