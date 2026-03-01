@@ -46,3 +46,5 @@ Clique nos botões abaixo para abrir o notebook diretamente no Google Colab ou v
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EDVADMBD/feminic-dio-/blob/main/notebook/Feminicidio.ipynb)
 [![View in nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/EDVADMBD/feminic-dio-/blob/main/notebook/Feminicidio.ipynb)
+
+
