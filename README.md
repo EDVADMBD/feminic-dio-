@@ -46,12 +46,10 @@ A ciência de dados nos alerta: se a tendência de crescimento médio anual de *
 
 Para retomarmos ao patamar de 2015, não basta uma redução simbólica. Nossa análise indica que é necessário um **choque de redução de 63,6%** em todos os estados.
 
-* 
-**São Paulo** precisaria baixar de 350 para **127 casos**.
+* **São Paulo** precisaria baixar de 350 para **127 casos**.
 
 
-* 
-**Rio de Janeiro** precisaria operar com uma meta máxima de **65 casos**.
+* **Rio de Janeiro** precisaria operar com uma meta máxima de **65 casos**.
 
 
 
