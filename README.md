@@ -50,6 +50,8 @@ Clique nos botões abaixo para abrir o notebook diretamente no Google Colab ou v
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EDVADMBD/feminic-dio-/blob/main/notebook/Feminicidio%20.ipynb) &nbsp; [![Renderizado](https://img.shields.io/badge/render-notebook-orange.svg)](https://nbviewer.org/github/EDVADMBD/feminic-dio-/blob/main/notebook/Feminicidio%20.ipynb)
 
+
+
 ##🚨 Executar Módulo de Alertas Preventivos
 
 Clique nos botões abaixo para interagir com o sistema de monitoramento e projeções:
