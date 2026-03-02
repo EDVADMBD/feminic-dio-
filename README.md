@@ -45,7 +45,8 @@ Antecipação de Riscos: A implementação do algoritmo de projeção para 2026 
 Clique nos botões abaixo para abrir o notebook diretamente no Google Colab ou visualizar o renderizado:
 
 ### Acesse o Projeto:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EDVADMBD/feminic-dio-/blob/main/notebook/Feminicidio%20.ipynb) &nbsp; [![Renderizado](https://img.shields.io/badge/render-notebook-orange.svg)](https://nbviewer.org/github/EDVADMBD/feminic-dio-/blob/main/notebook/Feminicidio%20.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EDVADMBD/feminic-dio-/blob/main/notebook/Feminicidio.ipynb) &nbsp; [![Renderizado](https://img.shields.io/badge/render-notebook-orange.svg)](https://nbviewer.org/github/EDVADMBD/feminic-dio-/blob/main/notebook/Feminicidio.ipynb)
 
 ##🚨 Executar Módulo de Alertas Preventivos
 
