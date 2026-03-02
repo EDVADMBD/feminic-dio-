@@ -43,9 +43,7 @@ Antecipação de Riscos: A implementação do algoritmo de projeção para 2026 
 ##🚀 Executar o Projeto
 
 Clique nos botões abaixo para abrir o notebook diretamente no Google Colab ou visualizar o renderizado:
-
 ### Acesse o Projeto:
-
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a-WLXfWEddGSCwYxJb9X76rbS2V0Jo4g#scrollTo=jKQdPmSCpnTb) &nbsp; [![Renderizado](### Acesse o Projeto:
