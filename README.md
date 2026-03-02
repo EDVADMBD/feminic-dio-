@@ -46,10 +46,8 @@ Clique nos botões abaixo para abrir o notebook diretamente no Google Colab ou v
 
 ### Acesse o Projeto:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EDVADMBD/feminic-dio-/blob/main/notebook/Feminicidio.ipynb) &nbsp; [![Renderizado](https://img.shields.io/badge/render-notebook-orange.svg)](https://github.com/EDVADMBD/feminic-dio-/blob/main/notebook/Feminicidio.ipynb)
-
-
-https://github.com/EDVADMBD/feminic-dio-/blob/main/notebook/Feminicidio.ipynb
+[![Abrir Colab](https://img.shields.io/badge/Abrir-Colab-blue?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/drive/1a-WLXfWEddGSCwYxJb9X76rbS2V0Jo4g#scrollTo=jKQdPmSCpnTb)
+[![Abrir GitHub](https://img.shields.io/badge/Abrir-GitHub-black?style=for-the-badge&logo=github)](https://github.com/EDVADMBD/feminic-dio-/blob/main/notebook/Feminicidio.ipynb)
 
 ##🚨 Executar Módulo de Alertas Preventivos
 
